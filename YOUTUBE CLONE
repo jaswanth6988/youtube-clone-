@@ -134,11 +134,18 @@ hr {
 }
 
 .video {
+  width: 100%;
+  display: flex;
   width: 270px;
   margin-bottom: 30px;
+  background-repeat: 10;
+}
+.item{
+  width: 100%;
+  margin-right: 30px;
 }
 .thumbnail {
-  width: 100%;
+  width: 18pc;
   height: 170px;
 }
 
@@ -258,8 +265,10 @@ span {
           </div>
           <div class="content">
             <div class="video">
+              <div class="item">
               <div class="thumbnail">
                  <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                 
                </div>
        
                  <div class="details">
@@ -276,9 +285,163 @@ span {
                          <span> 2M Views • 3 Months Ago </span>
                     </div>
                   </div>
+                </div>
+                  <div class="item">
+                  <div class="thumbnail">
+                    <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                    
+                  </div>
+          
+                    <div class="details">
+                       <div class="author">
+                          <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                       </div>
+                       <div class="title">
+                          <h3>
+                              Introverts & Content Creation | Sumudu Siriwardana
+                           </h3>
+                           <a href="">
+                                  Francesco Ciulla
+                            </a>
+                            <span> 2M Views • 3 Months Ago </span>
+                       </div>
+                     </div>
+                    </div>
+                    <div class="item">
+                      <div class="thumbnail">
+                        <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                        
+                      </div>
+              
+                        <div class="details">
+                           <div class="author">
+                              <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                           </div>
+                           <div class="title">
+                              <h3>
+                                  Introverts & Content Creation | Sumudu Siriwardana
+                               </h3>
+                               <a href="">
+                                      Francesco Ciulla
+                                </a>
+                                <span> 2M Views • 3 Months Ago </span>
+                           </div>
+                         </div>
+                        </div>
+                        <div class="item">
+                          <div class="thumbnail">
+                            <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                            
+                          </div>
+                  
+                            <div class="details">
+                               <div class="author">
+                                  <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                               </div>
+                               <div class="title">
+                                  <h3>
+                                      Introverts & Content Creation | Sumudu Siriwardana
+                                   </h3>
+                                   <a href="">
+                                          Francesco Ciulla
+                                    </a>
+                                    <span> 2M Views • 3 Months Ago </span>
+                               </div>
+                             </div>
+                            </div>
+                
        
                 </div>
+                <div class="video">
+                  <div class="item">
+                  <div class="thumbnail">
+                     <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                     
+                   </div>
+           
+                     <div class="details">
+                        <div class="author">
+                           <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                        </div>
+                        <div class="title">
+                           <h3>
+                               Introverts & Content Creation | Sumudu Siriwardana
+                            </h3>
+                            <a href="">
+                                   Francesco Ciulla
+                             </a>
+                             <span> 2M Views • 3 Months Ago </span>
+                        </div>
+                      </div>
+                    </div>
+                      <div class="item">
+                      <div class="thumbnail">
+                        <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                        
+                      </div>
+              
+                        <div class="details">
+                           <div class="author">
+                              <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                           </div>
+                           <div class="title">
+                              <h3>
+                                  Introverts & Content Creation | Sumudu Siriwardana
+                               </h3>
+                               <a href="">
+                                      Francesco Ciulla
+                                </a>
+                                <span> 2M Views • 3 Months Ago </span>
+                           </div>
+                         </div>
+                        </div>
+                        <div class="item">
+                          <div class="thumbnail">
+                            <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                            
+                          </div>
+                  
+                            <div class="details">
+                               <div class="author">
+                                  <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                               </div>
+                               <div class="title">
+                                  <h3>
+                                      Introverts & Content Creation | Sumudu Siriwardana
+                                   </h3>
+                                   <a href="">
+                                          Francesco Ciulla
+                                    </a>
+                                    <span> 2M Views • 3 Months Ago </span>
+                               </div>
+                             </div>
+                            </div>
+                            <div class="item">
+                              <div class="thumbnail">
+                                <img src="https://img.youtube.com/vi/zUwB_imVjmg/maxresdefault.jpg" alt="" />
+                                
+                              </div>
+                      
+                                <div class="details">
+                                   <div class="author">
+                                      <img src="https://yt3.ggpht.com/bpzY-S4DYlbTeOpY5hIA7qz_hcbMkgvLAugtwKBGTTImNnWAGudX0y53bo_fJZ0auypxrWkUiw=s88-c-k-c0x00ffffff-no-rj" alt="" />
+                                   </div>
+                                   <div class="title">
+                                      <h3>
+                                          Introverts & Content Creation | Sumudu Siriwardana
+                                       </h3>
+                                       <a href="">
+                                              Francesco Ciulla
+                                        </a>
+                                        <span> 2M Views • 3 Months Ago </span>
+                                   </div>
+                                 </div>
+                                </div>
+                    
+           
+                    </div>
           </div>
+          
       </main>
         
         
